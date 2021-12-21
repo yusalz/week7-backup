@@ -1,5 +1,5 @@
 {
-  "name": "week6",
+  "name": "week7",
   "version": "1.0.0",
   "type": "module",
   "description": "",
@@ -12,19 +12,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yusalz/week6.git"
+    "url": "git+https://github.com/yusalz/week7.git"
   },
   "author": "itmo309692",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yusalz/week6/issues"
+    "url": "https://github.com/yusalz/week7/issues"
   },
-  "homepage": "https://github.com/yusalz/week6#readme",
+  "homepage": "https://github.com/yusalz/week7#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "mongodb": "^4.1.2"
+    "mongodb": "^4.1.2",
     "pug": "^3.0.2"
   }
 }
